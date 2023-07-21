@@ -1,6 +1,6 @@
 ---
 repository:
-  name: rclone
+  name: ansible-rclone
   description: Ansible role to install and configure rclone backup solution
   topics: ansible, role, ansible-role, hacktoberfest
 
