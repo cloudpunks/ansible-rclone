@@ -1,7 +1,7 @@
 ---
 # @var rclone_version:description: Version of the release to install
 # renovate: datasource=github-releases depName=rclone/rclone
-rclone_version: 1.73.5
+rclone_version: 1.74.0
 
 # @var rclone_arch:description: Architecture of the package to install
 rclone_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
