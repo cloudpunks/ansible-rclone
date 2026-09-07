@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.17.0](https://github.com/rolehippie/rclone/compare/v2.16.1...v2.17.0) (2026-09-07)
+
+### Features
+
+* add separate requirements for molecule run ([fff2c34](https://github.com/rolehippie/rclone/commit/fff2c34cefcd7e694c73c1326181ca7a3ddeb14c))
+* use new required facts as attributes ([42cc7c2](https://github.com/rolehippie/rclone/commit/42cc7c296ab3b29eefb1b8df7a6c586ae1f3dd95))
+
+### Dependencies
+
+* **patch:** update dependency rclone/rclone to v1.75.1 ([#117](https://github.com/rolehippie/rclone/issues/117)) ([ecabb82](https://github.com/rolehippie/rclone/commit/ecabb825fb6a280ea2d4d8299d66cda613729e4f))
+
 ## [2.16.1](https://github.com/rolehippie/rclone/compare/v2.16.0...v2.16.1) (2026-08-31)
 
 ### Dependencies
