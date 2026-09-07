@@ -4,7 +4,7 @@
 rclone_version: 1.75.1
 
 # @var rclone_arch:description: Architecture of the package to install
-rclone_arch: "{{ 'arm64' if ansible_architecture == 'aarch64' or ansible_architecture == 'arm64' else 'amd64' }}"
+rclone_arch: "{{ 'arm64' if ansible_facts['architecture'] in ['aarch64', 'arm64'] else 'amd64' }}"
 
 # @var rclone_package:description: Download URL for the package to install
 rclone_package: "https://github.com/rclone/rclone/releases/download/v{{ rclone_version }}/rclone-v{{ rclone_version }}-linux-{{ rclone_arch }}.deb"
