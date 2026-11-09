@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.18.0](https://github.com/rolehippie/rclone/compare/v2.17.1...v2.18.0) (2026-11-09)
+
+### Dependencies
+
+* **minor:** update dependency rclone/rclone to v1.76.0 ([#140](https://github.com/rolehippie/rclone/issues/140)) ([256a40b](https://github.com/rolehippie/rclone/commit/256a40bc5d99fcf282949533b0eb8053366799dd))
+* **mise:** update dependency pipx:ansible-core to v2.22.0 ([#136](https://github.com/rolehippie/rclone/issues/136)) ([5126b30](https://github.com/rolehippie/rclone/commit/5126b3030ff7cc2a03ebf82ecb7bee99805e5f50))
+* **mise:** update dependency pipx:ansible-doctor to v8.4.4 ([#141](https://github.com/rolehippie/rclone/issues/141)) ([b67a4d7](https://github.com/rolehippie/rclone/commit/b67a4d7fe40315987c754278d19a59a6e0bc46db))
+* **mise:** update dependency pipx:ansible-lint to v26.10.1 ([#131](https://github.com/rolehippie/rclone/issues/131)) ([b889e38](https://github.com/rolehippie/rclone/commit/b889e38a54eb917ff8fac50c6a8e909d51373419))
+* **mise:** update dependency pipx:ansible-lint to v26.11.0 ([#138](https://github.com/rolehippie/rclone/issues/138)) ([215c846](https://github.com/rolehippie/rclone/commit/215c846ae49948dbfa629562a7ffcbeffb5e9a16))
+* **mise:** update dependency pipx:molecule to v26.11.0 ([#139](https://github.com/rolehippie/rclone/issues/139)) ([a23bd92](https://github.com/rolehippie/rclone/commit/a23bd920f28b5f32464b40c5ba199d813875ef36))
+* **mise:** update dependency prek to v0.5.10 ([#137](https://github.com/rolehippie/rclone/issues/137)) ([a4b9511](https://github.com/rolehippie/rclone/commit/a4b95117b564e01ccfd6bb1ee5dd57cface3e12d))
+* **mise:** update dependency prek to v0.5.6 ([#132](https://github.com/rolehippie/rclone/issues/132)) ([2642c79](https://github.com/rolehippie/rclone/commit/2642c7945479bc647dccf7fc243ca07473db6fd8))
+* **mise:** update dependency prek to v0.5.7 ([#133](https://github.com/rolehippie/rclone/issues/133)) ([72c303d](https://github.com/rolehippie/rclone/commit/72c303d1462423fa89420f36ff670a7495ef0159))
+* **mise:** update dependency prek to v0.5.9 ([#135](https://github.com/rolehippie/rclone/issues/135)) ([cb3806f](https://github.com/rolehippie/rclone/commit/cb3806f5c1fd81db983ea9cd820a0cc26dbff090))
+* **mise:** update node.js to v26 ([#134](https://github.com/rolehippie/rclone/issues/134)) ([cdd40ec](https://github.com/rolehippie/rclone/commit/cdd40ec0ff065d98bdccf28ba8d1950cfc20e9c2))
+
 ## [2.17.1](https://github.com/rolehippie/rclone/compare/v2.17.0...v2.17.1) (2026-10-12)
 
 ### Dependencies
